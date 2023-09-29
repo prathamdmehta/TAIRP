@@ -10,7 +10,7 @@ Task 3 = <a href="https://image-sliderbypm.netlify.app">Image Slider</a><br><br>
 <p>Level 2:</p>
 Task 1 = <a href="https://todo-listbypm.netlify.app">Todo-List</a><br>
 Task 2 = <a href="https://weatherbypm.netlify.app">Weather App</a><br>
-Task 3 = <a href="">Image Gallery</a><br><br>
+Task 3 = <a href="https://image-filterbypm.netlify.app/">Image Filter</a><br><br>
 
 <p>Level 3:</p>
 Task 1 = <a href="https://amazonbypm.netlify.app">E-Commerce Store</a><br>
